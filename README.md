@@ -1,2 +1,35 @@
 # Contact_Management_System
-Contact Management System  A simple Java Console-Based Contact Management System developed using Core Java, OOP Concepts, and File Handling.  This application allows users to:  Add Contacts View Contacts Update Contacts Delete Contacts Store Data in File
+
+Simple Java Console-Based Application using Core Java and File Handling.
+
+## Features
+- Add Contact
+- View Contacts
+- Update Contact
+- Delete Contact
+- Store Data in File
+
+## Technologies Used
+- Java
+- OOP Concepts
+- File Handling
+
+## Files
+- Contact.java
+- ContactManager.java
+- Main.java
+
+## How to Run
+1. Open project in Eclipse/IntelliJ
+2. Run `Main.java`
+3. Use menu options
+
+## Sample Menu
+1. Add Contact  
+2. View Contacts  
+3. Update Contact  
+4. Delete Contact  
+5. Exit
+
+## Author
+Komal Dobe
